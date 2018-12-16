@@ -1,2 +1,0 @@
-# assisto
-artificial intelegence
